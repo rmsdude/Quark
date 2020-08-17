@@ -1,5 +1,5 @@
 # Quark
-Small things.
+small things.
 
 This mod requires [AutoRegLib](https://github.com/Vazkii/AutoRegLib).
 
